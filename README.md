@@ -22,4 +22,4 @@
 2. Open `index.html` in your browser.
 3. Start playing!
 
-##Live Link: https://faizulkc.github.io/Risky-Roll-Game-Pig-game-v2-/
+## Live Link: https://faizulkc.github.io/Risky-Roll-Game-Pig-game-v2-/
